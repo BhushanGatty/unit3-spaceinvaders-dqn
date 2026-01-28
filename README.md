@@ -26,6 +26,9 @@ This is a trained model of a **DQN** agent playing **SpaceInvadersNoFrameskip-v4
 using the [stable-baselines3 library](https://github.com/DLR-RM/stable-baselines3)
 and the [RL Zoo](https://github.com/DLR-RM/rl-baselines3-zoo).
 
+## Agent in Action
+![Untitled design (2)](https://github.com/user-attachments/assets/7075539f-0e75-418c-97ca-90daf477fd68)
+
 The RL Zoo is a training framework for Stable Baselines3
 reinforcement learning agents,
 with hyperparameter optimization and pre-trained agents included.
